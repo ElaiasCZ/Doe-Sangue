@@ -1,0 +1,14 @@
+:root {
+    --cor-de-fundo: #cfcfcf;
+    --rosa-cabecalho:#ff94df;
+    --cor-da-fontte: #ffffff;
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+ cabeçalho {
+
+    background-color: var(--rosa-cabecalho);
+ }
+    
