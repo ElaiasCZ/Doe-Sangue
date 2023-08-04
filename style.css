@@ -8,8 +8,8 @@
     }
 :root {
     --cor-de-fundo: #cfcfcf;
-    --rosa-cabecalho:#ff94df;
-    --cor-da-fontte: #ffffff;
+    --rosa-cabecalho:#FFA3C4;
+    --cor-da-fonte: #ffffff;
 }
 
 body {
@@ -18,7 +18,26 @@ body {
 
 .cabecalho {
     background-color:var(--rosa-cabecalho);
-    justify-content: center;
     padding: 30px 0; 
 }
-    
+   
+.cabecalho-titulo {
+position: absolute;
+width: 130px;
+height: 35px;
+left: 131px;
+top: 10px;
+
+font-family: 'Indie Flower';
+font-style: normal;
+font-weight: 400;
+font-size: 25px;
+line-height: 36px;
+text-align: center;
+color: var(--cor-da-fonte);
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+
+
+
