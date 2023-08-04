@@ -2,6 +2,10 @@
 @import url("styles/box.css");
 @import url("styles/carrossel.css");
 
+* {
+    margin: 0; 
+    padding: 0; 
+    }
 :root {
     --cor-de-fundo: #cfcfcf;
     --rosa-cabecalho:#ff94df;
