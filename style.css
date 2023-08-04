@@ -12,8 +12,9 @@ body {
     background-color: var(--cor-de-fundo);
 }
 
-.cabeçalho {
-
-    background-color: var(--rosa-cabecalho);
- }
+.cabecalho {
+    background-color:var(--rosa-cabecalho);
+    justify-content: center;
+    padding: 30px 0; 
+}
     
