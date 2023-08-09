@@ -22,12 +22,10 @@ body {
 }
    
 .cabecalho-titulo {
-text-align: center;
 width: 130px;
 height: 35px;
 left: 131px;
 top: 10px;
-
 font-family: 'Indie Flower';
 font-style: normal;
 font-weight: 400;
