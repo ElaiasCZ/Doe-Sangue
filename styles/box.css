@@ -1,3 +1,9 @@
+:root {
+    --cor-de-fundo: #cfcfcf;
+    --rosa-cabecalho:#FFA3C4;
+    --cor-da-fonte: #ffffff;
+}
+
 .tipo_imagem {
     height: 200px;
     width: 200px;
@@ -13,10 +19,9 @@
 }
 
 .titulo {
-    color: var(--preto) ;
+    color: var(--rosa-cabecalho);
     text-align: center;
-    padding: 1em;
-    font-weight: 700;
+    font-size: 20px;
     
 }
 
