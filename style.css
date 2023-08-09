@@ -23,6 +23,7 @@ body {
    
 .cabecalho-titulo {
 position: absolute;
+text-align: center;
 width: 130px;
 height: 35px;
 left: 131px;
