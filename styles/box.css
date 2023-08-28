@@ -8,10 +8,10 @@
     height: 200px;
     width: 200px;
     border-radius: 30px;
-    background-color: var(--cor-de-fundo);  
+    background-color: #cfcfcf;
 
 .principal__box {
-    background-color: var(--cor-de-fundo);  
+    background-color: #cfcfcf;  
     height: 400px;
     width: 950px;
     margin: auto;
