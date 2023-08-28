@@ -135,6 +135,7 @@
      background-position: 100%;
      border-radius: 10px;
      animation: AnimarBorda 4s linear infinite;
+ }
      .tipo_imagem {
         height: 200px;
         width: 200px;
