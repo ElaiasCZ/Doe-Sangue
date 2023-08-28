@@ -7,12 +7,9 @@
 .tipo_imagem {
     height: 200px;
     width: 200px;
-    border-radius: 30px;
-    background: rgb(173, 172, 171); 
-}
+    border-radius: 30px;  
 
-.principal__box {
-    background-color: burlywood;
+.principal__box {  
     height: 400px;
     width: 950px;
     margin: auto;
