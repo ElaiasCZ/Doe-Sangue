@@ -67,20 +67,7 @@
 
 
 
-/*para colocar o efeito na borda*/
-  .caixa {
-   margin: auto;
-    position: relative;
-    width: 50px;
-    height: 20px;
-    color: #151320;
-    background: #fff;
-    display: flex;
-   justify-content: center;
-    align-items: center;
-    border-radius: 3px;
-    font-weight: 700;
-}
+
 
 .caixa::before, .caixa::after {
     content: '';
