@@ -111,21 +111,7 @@
      font-weight: 700;
  }
  
- .caixa::before, .caixa::after {
-     content: '';
-     position: absolute;
-     z-index: -1;
-     width: calc(100% + 5px);
-     height: calc(100% + 5px);
-     background: linear-gradient(45deg, #128686, #8d1313, #646364, 
-     #839a9f, #d7d8d8, #881111, #939292, #b91bb9);
-     background-size: 300%;
-     background-repeat: no-repeat;
-     background-position: 100%;
-     border-radius: 10px;
-     animation: AnimarBorda 4s linear infinite;
-     
- }
+ 
  
  @keyframes AnimarBorda {
      0% {
